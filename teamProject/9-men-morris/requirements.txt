@@ -1,0 +1,4 @@
+coverage==7.3.2
+pygame==2.5.2
+
+SQLAlchemy~=2.0.21
